@@ -1,0 +1,1 @@
+SingleInfo.js
